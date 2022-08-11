@@ -11,3 +11,5 @@
 * [json-schema-faker](https://github.com/json-schema-faker/json-schema-faker):JSON-Schema + fake data generators
 * [react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form):A React component for building Web forms from JSON Schema.
 * [json-schema-editor-visual](https://github.com/Open-Federation/json-schema-editor-visual):A json-schema editor of high efficient and easy-to-use, base on React.
+* [genson-js](https://github.com/aspecto-io/genson-js):JSON Schema Generator
+* [generate-schema](https://github.com/Nijikokun/generate-schema):🧞 Convert JSON Objects to MySQL, JSON Schema, Mongoose, Google BigQuery, Swagger, and more.
