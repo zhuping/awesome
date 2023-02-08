@@ -6,6 +6,7 @@
 * [node-fs-extra](https://github.com/jprichardson/node-fs-extra):Node.js: extra methods for the fs object like copy(), remove(), mkdirs()
 * [globby](https://github.com/sindresorhus/globby):User-friendly glob matching
 * [release-it](https://github.com/release-it/release-it):🚀 Automate versioning and package publishing
+* [dotenv](https://github.com/motdotla/dotenv):Loads environment variables from .env for nodejs projects.
 
 ### schema
 * [json-schema-faker](https://github.com/json-schema-faker/json-schema-faker):JSON-Schema + fake data generators
