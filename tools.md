@@ -7,6 +7,7 @@
 * [globby](https://github.com/sindresorhus/globby):User-friendly glob matching
 * [release-it](https://github.com/release-it/release-it):🚀 Automate versioning and package publishing
 * [dotenv](https://github.com/motdotla/dotenv):Loads environment variables from .env for nodejs projects.
+* [scripty](https://github.com/testdouble/scripty):Because no one should be shell-scripting inside a JSON file.
 
 ### schema
 * [json-schema-faker](https://github.com/json-schema-faker/json-schema-faker):JSON-Schema + fake data generators
