@@ -7,3 +7,4 @@
 * [react-virtualized](https://github.com/bvaughn/react-virtualized):React components for efficiently rendering large lists and tabular data
 * [redux-offline](https://github.com/redux-offline/redux-offline):Build Offline-First Apps for Web and React Native
 * [formik](https://github.com/jaredpalmer/formik):Build forms in React, without the tears 😭
+* [react-hook-form](https://github.com/react-hook-form/react-hook-form): 📋 React Hooks for form state management and validation (Web + React Native)
