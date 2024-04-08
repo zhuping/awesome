@@ -9,3 +9,4 @@
 * [UI 组件库](https://github.com/zhuping/awesome/blob/main/ui-components.md)
 * [小工具](https://github.com/zhuping/awesome/blob/main/tools.md)
 * [ts 相关](https://github.com/zhuping/awesome/blob/main/ts.md)
+* [AI 相关](https://github.com/zhuping/awesome/blob/main/ai.md)
