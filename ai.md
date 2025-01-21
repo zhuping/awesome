@@ -12,3 +12,5 @@
 * [awesome-chatgpt-zh](https://github.com/yzfly/awesome-chatgpt-zh): ChatGPT 中文指南🔥，ChatGPT 中文调教指南，指令指南，应用开发指南，精选资源清单，更好的使用 chatGPT 让你的生产力 up up up! 🚀
 * [law-cn-ai](https://github.com/lvwzhen/law-cn-ai): ⚖️ AI 法律助手
 * [ChatGPT-CodeReview](https://github.com/anc95/ChatGPT-CodeReview): 🐥 A code review bot powered by ChatGPT
+* [CopilotKit](https://github.com/CopilotKit/CopilotKit): React UI + elegant infrastructure for AI Copilots, in-app AI agents, AI chatbots, and AI-powered Textareas 🪁
+* [midscene](https://github.com/web-infra-dev/midscene): AI-Driven Browser Automation with Chrome Extensions, JavaScript, and YAML Scripts.
